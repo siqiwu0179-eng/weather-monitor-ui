@@ -2,6 +2,12 @@
 
 基于 React、TypeScript、Tailwind CSS、ECharts 和 Next.js 构建的实时气象数据监测网站。天气与地点数据来自 Open-Meteo 开放 API。
 
+## 在线访问
+
+已部署版本：
+
+[https://weather-monitor-ui.vercel.app](https://weather-monitor-ui.vercel.app)
+
 ## 功能
 
 - 实时温度、湿度、降水量、风速和气压
